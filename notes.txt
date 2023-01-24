@@ -1,0 +1,3 @@
+need to install tor
+in /etc/tor/torrc enable the ControlPort to be 9051, and enable the password auth
+and set your TOR_PASSWORD
